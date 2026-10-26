@@ -8,6 +8,10 @@
 
 [任务记录粒度与柔性约束](docs/task-trace-flexibility.md)提供秒级 CPU/GPU 作业、ASI 小时类型与优先级数据的读取和资源累计接口，并说明任务类别、服务期限和抢占权限的证据范围。
 
+[实际配置与 8760 小时负荷计算说明](results/scenario-load-methods-20261026-v2/README.md)提供真实超算设备依据、36 个设计单元及其准备状态、全年重放算法与 16 条已计算曲线的汇总。混合设备的功率配比由匹配节点清单推导，逐小时气象作为外生输入，柔性权限独立成章。
+
+[任务来源与柔性文献历史报告](results/task-driven-load-report-20261026-v2/README.md)保存来源波动、六组图、四档规模的功率示例和 ASI 柔性文献结果；当前设备定义与年度计算采用上述实际配置说明。[初始报告](results/task-driven-load-report-20261026/README.md)保留。
+
 ## 已有负荷证据
 
 [20261025-v4 工作包](results/compute-center-data-audit-20261022/coupled-power-weather-20261025-v4/README.md)包含完整报告、实测 CPU/GPU 整机功率点、冷却模型系数、硬件数量、年度与月度汇总，以及现有科学核验记录。完整小时数据位于服务器成果包内。
