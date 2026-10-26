@@ -3,7 +3,7 @@
 这是方向二的个人研究仓库，维护数据中心无碳供电、储能配置以及企业收益与电网影响的研究材料。方向一独立维护于 [33](https://github.com/TuzzyT-Laiii/33)。
 
 - [通用网格负荷模块：算法、接口与全球网格接入](dc-flexibility-project/docs/compute-load-module.md)
-- [CPU/GPU 任务需求与柔性约束负荷报告（20261026）](dc-flexibility-project/results/task-driven-load-report-20261026/README.md)
+- [CPU/GPU 需求模式与柔性约束负荷报告（20261026-v2）](dc-flexibility-project/results/task-driven-load-report-20261026-v2/README.md)
 - [项目说明与使用边界](dc-flexibility-project/README.md)
 - [CPU/GPU 温湿度耦合负荷：完整报告、参数与数据读取](dc-flexibility-project/results/compute-center-data-audit-20261022/coupled-power-weather-20261025-v4/README.md)
 - [完整小时数据包（私有仓库待审附件）](https://github.com/Lantern567/data-center-carbon-free-storage/releases/tag/untagged-d9f64bf140fea936371d)
