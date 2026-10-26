@@ -6,6 +6,8 @@
 
 [算法与调用文档](docs/compute-load-module.md)说明任意网格逐小时温湿度输入、CPU/GPU 四档 IT 规模、资源曲线与设备功率映射，以及冷却和全年负荷计算。固定需求供电接口可直接采用这些曲线进行储能计算，模型与数据的适用范围随文档提供。
 
+[任务记录粒度与柔性约束](docs/task-trace-flexibility.md)提供秒级 CPU/GPU 作业、ASI 小时类型与优先级数据的读取和资源累计接口，并说明任务类别、服务期限和抢占权限的证据范围。
+
 ## 已有负荷证据
 
 [20261025-v4 工作包](results/compute-center-data-audit-20261022/coupled-power-weather-20261025-v4/README.md)包含完整报告、实测 CPU/GPU 整机功率点、冷却模型系数、硬件数量、年度与月度汇总，以及现有科学核验记录。完整小时数据位于服务器成果包内。
